@@ -1,0 +1,8 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+D:/placment/MiniProject_verilog/Basys3_4Bit_ALU/Basys3_4Bit_ALU.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,,,,,,,
+D:/placment/MiniProject_verilog/Basys3_4Bit_ALU/Basys3_4Bit_ALU.srcs/sim_1/new/tb_calculator.v,1775411146,verilog,,,,tb_calculator,,,C:/AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+D:/placment/MiniProject_verilog/Basys3_4Bit_ALU/Basys3_4Bit_ALU.srcs/sources_1/new/calculator.v,1775410888,verilog,,D:/placment/MiniProject_verilog/Basys3_4Bit_ALU/Basys3_4Bit_ALU.srcs/sources_1/new/seven_seg_drive.v,,calculator,,,C:/AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+D:/placment/MiniProject_verilog/Basys3_4Bit_ALU/Basys3_4Bit_ALU.srcs/sources_1/new/seven_seg_drive.v,1775410977,verilog,,D:/placment/MiniProject_verilog/Basys3_4Bit_ALU/Basys3_4Bit_ALU.srcs/sim_1/new/tb_calculator.v,,seven_seg_drive,,,C:/AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
